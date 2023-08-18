@@ -30,17 +30,16 @@ text {
 }
 
 h2 {
-    font-size: 22px;
-    padding-top: 20px;
+    font-size: 20px;
+    padding-top: 22px;
     color: hsl(218, 44%, 22%);
-    padding-bottom: 15px;
+    padding-bottom: 18px;
 }
 
 p {
     color: hsl(220, 15%, 55%);
     padding-bottom: 16px;
 }
-
 `
 
 export default GlobalStyles
