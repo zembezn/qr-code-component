@@ -24,7 +24,7 @@ In this project, I dealt mainly with html and css, which was straightforward for
 
 ### Links
 
-- Solution URL: [QR code solution](https://zembezn.github.io/qr-code-component-main/)
+- Solution URL: [QR code solution](https://zembezn.github.io/qr-code-component/)
 
 ## My process
 
