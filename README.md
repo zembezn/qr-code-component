@@ -24,7 +24,7 @@ In this project, I dealt mainly with html and css, which was straightforward for
 
 ### Links
 
-- Solution URL: [QR code solution](https://zembezn.github.io/qr-code-component/)
+- Solution URL: [QR code solution](https://qrcodecomponentzembezn.netlify.app/)
 
 ## My process
 
@@ -78,4 +78,4 @@ I want to be more familiar with styled components and flexbox as these are quick
 
 ## Acknowledgments
 
-Thank you to my friend James for the sound advice and guidance. 
+Thank you to my friend James Nicholson for the sound advice and guidance. 
