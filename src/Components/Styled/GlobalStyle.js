@@ -38,6 +38,8 @@ p {
     color: hsl(220, 15%, 55%);
     padding-bottom: 16px;
 }
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
 `
 
 export default GlobalStyles
