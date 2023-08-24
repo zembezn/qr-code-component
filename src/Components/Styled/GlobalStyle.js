@@ -38,7 +38,7 @@ p {
     color: hsl(220, 15%, 55%);
     padding-bottom: 16px;
 }
-.attribution { font-size: 11px; text-align: center; padding-top: 15px }
+.attribution { font-size: 11px; text-align: center; padding-top: 20px }
 .attribution a { color: hsl(228, 45%, 44%); }
 `
 
