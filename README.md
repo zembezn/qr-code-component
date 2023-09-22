@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-In this project, I dealt mainly with html and css, which was a straightforward concept. I built the gr-code component using react javascript. 
+In this project, I mainly worked with html and css, which was a straightforward concept. I built the gr-code component using react javascript. 
 ### Screenshot
 
 ![Solution](./public/screenshot.jpg)
